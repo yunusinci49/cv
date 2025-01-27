@@ -98,11 +98,6 @@ section:target{
     visibility: hidden;
 }
 
-@keyframes duyuruKapat{
-        0% {opacity: 1; visibility: visible;}
-        80% {opacity: 1; visibility: visible;}
-        100% {opacity: 0; visibility: hidden;}
-}
 
 
 
